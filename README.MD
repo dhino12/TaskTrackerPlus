@@ -1,6 +1,6 @@
 # Final Course Project - Task Tracker Plus
+Task Tracker Plus adalah aplikasi pengelolaan tugas yang dirancang untuk membantu mahasiswa dalam mengatur jadwal studi mereka.
 ### Test Case Examples & ENDPOINT
-
 #### Test Case 1
 
 **Input**:
